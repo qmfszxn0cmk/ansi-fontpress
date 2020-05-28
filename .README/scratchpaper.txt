@@ -1,0 +1,82 @@
+#################
+####### REFERENCE
+#################
+
+full = 
+
+,d""""b,
+$$    $$
+,d""""$$
+$$    $$
+$$    $$
+$$    $$
+`Y,,,,$$,
+ !,..,!!
+ :    ::
+
+height = 10
+weight = 2
+width = 4
+x-height = 8
+
+###############
+####### ANATOMY
+###############
+
+//===--                 --===\\
+::                           ::
+o]  weight -----------o--o-  [o
+ '  height     =      |  |   '
+               =      \  /
+    x-height   = ,d""""b, 
+               = $$    $$ 
+               = $$    $$ 
+    crossbar   = $$    $$ 
+               = $$    $$ 
+               = $$    $$ 
+    curve_up   = `Y,,,,Y' 
+    drip_start =  !,..,!  
+               =  :    :  
+    drip_end   =  .     
+                           
+ ,  width ==o     |____|     ,
+o]            \____//        [o
+::                           ::
+\\===--                 --===//
+
+### Parts
+
+------------- corners ------------
+
+  naming convention:
+     *based on location of curve*
+        u{pper}_l{eft}
+
+     u_l => ,d''''b, <= u_r
+            $$    $$
+     l_l => `Y,,,,Y' <= l_r
+
+ alt_u_l => ,q''''b,
+            $$    $$
+
+  sharp variations:
+        s{harp}_u_l
+
+   s_u_l => $$''''$$ <= s_u_r
+            $$    $$
+   s_l_l => $$,,,,$$ <= s_l_r
+
+
+---- e-gap ----
+    $$    $$
+=>  $$""""""
+    $$    $$
+    
+
+#########################
+##### Dictionary Planning
+#########################
+
+   -- Naming --
+
+crossbar
